@@ -5,13 +5,13 @@ A simple project that fetches data from the JSONPlaceholder API and displays it 
 **Credits:** Data sourced from the JSONPlaceholder API — https://jsonplaceholder.typicode.com/
 
 
-**Install project dependencies:**
+**Install dependencies:**
 
 ```bash
 npm install
 ```
 
-**Start the development server:**
+**Start development server:**
 
 ```bash
 npm run dev
